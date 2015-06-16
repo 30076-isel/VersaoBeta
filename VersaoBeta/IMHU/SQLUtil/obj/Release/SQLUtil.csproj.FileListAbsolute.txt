@@ -1,0 +1,11 @@
+H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\MSMQ\SQLUtil\bin\Release\SQLUtil.exe.config
+H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\MSMQ\SQLUtil\bin\Release\SQLUtil.exe
+H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\MSMQ\SQLUtil\bin\Release\SQLUtil.pdb
+H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\MSMQ\SQLUtil\obj\Release\SQLUtil.exe
+H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\MSMQ\SQLUtil\obj\Release\SQLUtil.pdb
+H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\IMHU\SQLUtil\bin\Release\SQLUtil.pdb
+H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\IMHU\SQLUtil\obj\Release\SQLUtil.pdb
+H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\IMHU\SQLUtil\obj\Release\SQLUtil.csprojResolveAssemblyReference.cache
+H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\IMHU\SQLUtil\bin\Release\SQLUtil.dll.config
+H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\IMHU\SQLUtil\bin\Release\SQLUtil.dll
+H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\IMHU\SQLUtil\obj\Release\SQLUtil.dll

@@ -1,0 +1,8 @@
+H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\IMHU\MSMQ\bin\Release\MSMQ_Objects.dll.config
+H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\IMHU\MSMQ\bin\Release\MSMQ_Objects.dll
+H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\IMHU\MSMQ\bin\Release\MSMQ_Objects.pdb
+H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\IMHU\MSMQ\bin\Release\IMHU.Domain.dll
+H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\IMHU\MSMQ\bin\Release\IMHU.Domain.pdb
+H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\IMHU\MSMQ\obj\Release\MSMQ.csprojResolveAssemblyReference.cache
+H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\IMHU\MSMQ\obj\Release\MSMQ_Objects.dll
+H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\IMHU\MSMQ\obj\Release\MSMQ_Objects.pdb

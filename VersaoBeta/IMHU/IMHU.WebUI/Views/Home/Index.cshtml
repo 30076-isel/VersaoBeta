@@ -1,0 +1,102 @@
+﻿@model IMHU.WebUI.Models.LoginModel
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="navbar-wrapper">
+    <div class="container">
+        <nav class="navbar navbar-inverse navbar-fixed-top" style="margin-top: 100px;">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#">Inventory Management in Health Units</a>
+                </div>
+
+                <div id="navbar" class="navbar-collapse collapse">
+
+                    @using (Html.BeginForm("Login", "Account", FormMethod.Post, new { @class="navbar-form navbar-right"}))
+                    {
+                        @Html.ValidationSummary(true)                     
+                        
+                        <div class="form-group">
+                            @Html.ValidationMessageFor(m => m.UserName)
+                            @Html.TextBoxFor(m => m.UserName, new { placeholder = "User name", @class = "form-control" })
+                        </div>
+          
+                        <div class="form-group">
+                            @Html.ValidationMessageFor(m => m.Password)
+                            @Html.PasswordFor(x => x.Password, new { placeholder = "Password", @class = "form-control" })
+                        </div>
+
+                        <button type="submit" class="btn btn-primary">
+                            <span class="glyphicon glyphicon-log-in" aria-hidden="true"></span> Log In
+                        </button>
+                    }
+                </div>
+
+            </div>
+        </nav>
+    </div>
+</div>
+
+
+
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel" style="margin-top: 50px; height: 350px;">
+
+    <ol class="carousel-indicators">
+        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+    </ol>
+
+
+    <div class="carousel-inner" role="listbox">
+        <div class="item active" style="margin-top: 10%;">
+            <img src="~/Images/Imagem1.png" style="width: 25%;" alt="...">
+            <div class="carousel-caption">
+                ...
+     
+            </div>
+        </div>
+        <div class="item" style="margin-top: 10%;">
+            <img src="~/Images/Imagem2.png" style="width: 25%;" alt="...">
+            <div class="carousel-caption">
+                <p>
+                    @IMHU.WebUI.Resources.Messages.textForCarrossel
+                </p>
+
+            </div>
+        </div>
+        <div class="item" style="margin-top: 10%;">
+            <img src="~/Images/Imagem3.png" style="width: 25%;" alt="...">
+            <div class="carousel-caption">
+                ...
+            </div>
+        </div>
+
+    </div>
+
+
+    <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+
+<div id="ErroDeLogin" class="container" style="margin-bottom:50px">
+    @TempData["message"]
+</div>
+
+
+
