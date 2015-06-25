@@ -1,6 +1,0 @@
-H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\IMHU\ARS_Service\bin\Release\ARS_Service.dll.config
-H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\IMHU\ARS_Service\bin\Release\ARS_Service.dll
-H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\IMHU\ARS_Service\bin\Release\ARS_Service.pdb
-H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\IMHU\ARS_Service\obj\Release\ARS_Service.dll
-H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\IMHU\ARS_Service\obj\Release\ARS_Service.pdb
-H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\IMHU\ARS_Service\obj\Release\ARS_Service.csprojResolveAssemblyReference.cache
