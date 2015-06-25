@@ -1,0 +1,110 @@
+
+-- Fornecedor_Ars
+INSERT INTO dbo.Fornecedor_Ars VALUES ('ars_F100','quirumed','Rua São Francisco Xavier, numero 413, porta 202 ')
+INSERT INTO dbo.Fornecedor_Ars VALUES ('ars_F101','OCP Portugal','Rua Cd. Bonfim 736 302')
+INSERT INTO dbo.Fornecedor_Ars VALUES ('ars_F102','Alliance Healthcare Portugal','Rua Eng. Adel')
+INSERT INTO dbo.Fornecedor_Ars VALUES ('ars_F103','Medifarma','R. António J N Silva 24/8 9500-022 PONTA ELGADA')
+INSERT INTO dbo.Fornecedor_Ars VALUES ('ars_F104','Caldeira & Metelo Lda.Medicamentos','R. 25 Abril nº 6 A - Brandoa 2650-061 AMADORA')
+INSERT INTO dbo.Fornecedor_Ars VALUES ('ars_F105','Nanques Farma Lda.Medicamentos','Canada Folhadais 12-A Angra Heroísmo 9700-706 TERRA CHÃ')
+INSERT INTO dbo.Fornecedor_Ars VALUES ('ars_F106','Medicanorte-medicamentos do Norte Lda.Medicamentos ','Rua Aldão 174 Vila Frescainha 4750-810 BARCELOS')
+INSERT INTO dbo.Fornecedor_Ars VALUES ('ars_F107','Cofanor-cooperativa dos Farmacêuticos do Norte CrlMedicamentos','R. Palmeiras 51 4150-563 PORTO')
+INSERT INTO dbo.Fornecedor_Ars VALUES ('ars_F108','N o Frayão Lda.Medicamentos','R. Comend. Ernesto Rebelo 4-R/C 9900-112 HORTA (Açores)')
+INSERT INTO dbo.Fornecedor_Ars VALUES ('ars_F109','Logista PharmaMedicamentos - Armazenistas e Distribuidores','Lote 1 A - Palhavã 2894-002 Alcochete')
+INSERT INTO dbo.Fornecedor_Ars VALUES ('ars_F110','Plural - Cooperativa Farmacêutica CrlMedicamentos','Lote 1 A - Palhavã 2894-002 Alcochete')
+INSERT INTO dbo.Fornecedor_Ars VALUES ('ars_F111','Al Hikma Farmacêutica Portugal Lda.Medicamentos','Estrada Nacional 9 - S. Gabriel 2750 CASCAIS')
+INSERT INTO dbo.Fornecedor_Ars VALUES ('ars_F112','Al Hikma Farmacêutica Portugal Lda.Medicamentos','Estrada Nacional 9 - S. Gabriel 2750 CASCAIS')
+INSERT INTO dbo.Fornecedor_Ars VALUES ('ars_F113','Astrazeneca-produtos Farmacêuticos Lda.Medicamentos','R. Humberto Madeira 7 Valejas 2730-097 BARCARENA')
+INSERT INTO dbo.Fornecedor_Ars VALUES ('ars_F114','Farlab-comércio e Representações Lda.Medicamentos','Zona Industrial da Portelinha 4514-909 GONDOMAR')
+INSERT INTO dbo.Fornecedor_Ars VALUES ('ars_F115','Botelho & Rodrigues Lda.Medicamentos','R. Cons. Lobato 345/85-R/C  4700-338 BRAGA')
+INSERT INTO dbo.Fornecedor_Ars VALUES ('ars_F116','Martins & Fernandes Sa','R. Raul M Ponsard 4-B  1750-243 LISBOA')
+INSERT INTO dbo.Fornecedor_Ars VALUES ('ars_F117','Ktb-produtos Farmacêuticos SaMedicamentos','Edifício SKF, lote 1 - Casal de Alfragide 2720-413 AMADORA')
+INSERT INTO dbo.Fornecedor_Ars VALUES ('ars_F118','Fsr - Francisco da Silva Ribeiro Lda.Medicamentos','R. D. Pedro Iv 22-R/C 9900-111 HORTA')
+INSERT INTO dbo.Fornecedor_Ars VALUES ('ars_F119','Sousa & C Lda.Medicamentos - Armazenistas e Distribuidores ','R. Carlos Magalhães 25/7 Dume 4700-001 BRAGA')
+--SELECT *FROM Fornecedor_Ars
+
+-- Funcionario_Ars
+INSERT INTO dbo.Funcionario_Ars VALUES ('ars_C100','Adolfo Casado','Acasado@gmail.com','ars_D100')
+INSERT INTO dbo.Funcionario_Ars VALUES ('ars_C101','ABencatel@gmail.com','ABencatel@gmail.com','ars_D101')
+INSERT INTO dbo.Funcionario_Ars VALUES ('ars_C102','Anacleto Vicario','AVicario@gmail.com','ars_D102')
+INSERT INTO dbo.Funcionario_Ars VALUES ('ars_C103','André Granjeia','AGranjeia@gmail.com','ars_D103')
+INSERT INTO dbo.Funcionario_Ars VALUES ('ars_C104','Barnabé Barroso','BBarroso@gmail.com','ars_D104')
+INSERT INTO dbo.Funcionario_Ars VALUES ('ars_C105','Caetana Nolasco','CNolasco@gmail.com','ars_D105')
+INSERT INTO dbo.Funcionario_Ars VALUES ('ars_C106','Cauê Malheiros','CMalheiros@gmail.com','ars_D106')
+INSERT INTO dbo.Funcionario_Ars VALUES ('ars_C107','Deolinda Caldas','DCaldas@gmail.com','ars_D107')
+INSERT INTO dbo.Funcionario_Ars VALUES ('ars_C108','Derli Salles','DSalles@gmail.com','ars_D102')
+INSERT INTO dbo.Funcionario_Ars VALUES ('ars_C109','Diógenes Reino','DReino@gmail.com','ars_D103')
+INSERT INTO dbo.Funcionario_Ars VALUES ('ars_C110','Ezequiel Pitangui','EPitangui@gmail.com','ars_D104')
+INSERT INTO dbo.Funcionario_Ars VALUES ('ars_C111','Ferdinando Peroba','FPeroba@gmail.com','ars_D105')
+INSERT INTO dbo.Funcionario_Ars VALUES ('ars_C112','Gláucia Carvalheiro','GCarvalheiro@gmail.com','ars_D106')
+INSERT INTO dbo.Funcionario_Ars VALUES ('ars_C113','Guaraci Guzmán','GGuzman@gmail.com','ars_D103')
+INSERT INTO dbo.Funcionario_Ars VALUES ('ars_C114','Juçara Robalo','JRobalo@gmail.com','ars_D104')
+INSERT INTO dbo.Funcionario_Ars VALUES ('ars_C115','Levi Reyes','LReyes@gmail.com','ars_D105')
+INSERT INTO dbo.Funcionario_Ars VALUES ('ars_C116','Márcia Areosa','MAreosa@gmail.com','ars_D106')
+INSERT INTO dbo.Funcionario_Ars VALUES ('ars_C117','Plínio Dinis','PDinis@gmail.com','ars_D107')
+INSERT INTO dbo.Funcionario_Ars VALUES ('ars_C118','Renato Aldeia','RAldeia@gmail.com','ars_D102')
+INSERT INTO dbo.Funcionario_Ars VALUES ('ars_C119','Telo Liberato','TLiberato@gmail.com','ars_D103')
+
+-- Contacto_Ars
+INSERT INTO dbo.ContactoFornecedor_Ars VALUES ('Telemovel','920000000','ars_F100')
+INSERT INTO dbo.ContactoFornecedor_Ars VALUES ('Telemovel','920000001','ars_F101')
+INSERT INTO dbo.ContactoFornecedor_Ars VALUES ('Telemovel','920000002','ars_F102')
+INSERT INTO dbo.ContactoFornecedor_Ars VALUES ('Telemovel','920000003','ars_F103')
+INSERT INTO dbo.ContactoFornecedor_Ars VALUES ('Telemovel','920000004','ars_F104')
+INSERT INTO dbo.ContactoFornecedor_Ars VALUES ('Telemovel','920000005','ars_F105')
+INSERT INTO dbo.ContactoFornecedor_Ars VALUES ('Telemovel','920000006','ars_F106')
+INSERT INTO dbo.ContactoFornecedor_Ars VALUES ('Telemovel','920000007','ars_F107')
+INSERT INTO dbo.ContactoFornecedor_Ars VALUES ('Telemovel','920000008','ars_F108')
+INSERT INTO dbo.ContactoFornecedor_Ars VALUES ('Telemovel','920000009','ars_F109')
+INSERT INTO dbo.ContactoFornecedor_Ars VALUES ('Telemovel','920000010','ars_F110')
+INSERT INTO dbo.ContactoFornecedor_Ars VALUES ('Telemovel','920000011','ars_F111')
+INSERT INTO dbo.ContactoFornecedor_Ars VALUES ('Telemovel','920000012','ars_F112')
+INSERT INTO dbo.ContactoFornecedor_Ars VALUES ('Telemovel','920000013','ars_F113')
+INSERT INTO dbo.ContactoFornecedor_Ars VALUES ('Telemovel','920000014','ars_F114')
+INSERT INTO dbo.ContactoFornecedor_Ars VALUES ('Telemovel','920000015','ars_F115')
+INSERT INTO dbo.ContactoFornecedor_Ars VALUES ('Telemovel','920000016','ars_F116')
+INSERT INTO dbo.ContactoFornecedor_Ars VALUES ('Telemovel','920000017','ars_F117')
+INSERT INTO dbo.ContactoFornecedor_Ars VALUES ('Telemovel','920000018','ars_F118')
+INSERT INTO dbo.ContactoFornecedor_Ars VALUES ('Telemovel','920000018','ars_F119')
+
+-- Ace_Ars
+INSERT INTO dbo.Ace_Ars VALUES ('ars_Ace100','ACES Lisboa Norte')
+INSERT INTO dbo.Ace_Ars VALUES ('ars_Ace101','ACES Lisboa Central')
+INSERT INTO dbo.Ace_Ars VALUES ('ars_Ace102','ACES Lisboa Ocidental e Oeiras')
+INSERT INTO dbo.Ace_Ars VALUES ('ars_Ace103','ACES Cascais')
+INSERT INTO dbo.Ace_Ars VALUES ('ars_Ace104','ACES Amadora')
+INSERT INTO dbo.Ace_Ars VALUES ('ars_Ace105','ACES Sintra')
+INSERT INTO dbo.Ace_Ars VALUES ('ars_Ace106','ACES Loures-Odivelas')
+INSERT INTO dbo.Ace_Ars VALUES ('ars_Ace107','ACES Estuário do Tejo')
+INSERT INTO dbo.Ace_Ars VALUES ('ars_Ace108','ACES Almada –Seixal')
+INSERT INTO dbo.Ace_Ars VALUES ('ars_Ace109','ACES Arco Ribeirinho')
+INSERT INTO dbo.Ace_Ars VALUES ('ars_Ace110','ACES Arrábida')
+INSERT INTO dbo.Ace_Ars VALUES ('ars_Ace111','ACES Oeste Norte')
+INSERT INTO dbo.Ace_Ars VALUES ('ars_Ace112','ACES Oeste Sul')
+INSERT INTO dbo.Ace_Ars VALUES ('ars_Ace113','ACES Médio Tejo')
+INSERT INTO dbo.Ace_Ars VALUES ('ars_Ace114','ACES Lezíria')
+--SELECT *FROM Ace_Ars
+-- Departamento_Ars
+INSERT INTO dbo.Departamento_Ars VALUES ('ars_D100','Departamento de Saúde Pública')
+INSERT INTO dbo.Departamento_Ars VALUES ('ars_D101','Departamento de Planeamento e Contratualização')
+INSERT INTO dbo.Departamento_Ars VALUES ('ars_D102','Departamento de Gestão e Administração Geral')
+INSERT INTO dbo.Departamento_Ars VALUES ('ars_D103','Departamento de Recursos Humanos')
+INSERT INTO dbo.Departamento_Ars VALUES ('ars_D104','Departamento de Instalações e Equipamentos')
+INSERT INTO dbo.Departamento_Ars VALUES ('ars_D105','Gabinete Jurídico e do Cidadão')
+INSERT INTO dbo.Departamento_Ars VALUES ('ars_D106','Divisão de Intervenção nos Comportamentos Aditivos e nas Dependências')
+INSERT INTO dbo.Departamento_Ars VALUES ('ars_D107','Áreas Funcionais')
+--SELECT *FROM Departamento_Ars
+
+-- ProdutoFornecedor_Ars
+
+
+
+-- Perfil_Ars
+INSERT INTO dbo.Perfil_Ars VALUES ('ars_Perf100','NULL')
+INSERT INTO dbo.Perfil_Ars VALUES ('ars_Perf101','NULL')
+INSERT INTO dbo.Perfil_Ars VALUES ('ars_Perf102','NULL')
+INSERT INTO dbo.Perfil_Ars VALUES ('ars_Perf103','NULL')
+INSERT INTO dbo.Perfil_Ars VALUES ('ars_Perf104','NULL')
+INSERT INTO dbo.Perfil_Ars VALUES ('ars_Perf105','NULL')
+--SELECT *FROM Perfil_Ars
+
+

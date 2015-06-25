@@ -1,0 +1,61 @@
+﻿@model IMHU.Domain.Encomenda_USF
+
+@{
+    ViewBag.Title = "Encomenda";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<h2>Encomenda</h2>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Encomenda</legend>
+
+        <div class="form-group">
+            @Html.ValidationMessageFor(m => m.ID_Encomenda)
+            @Html.TextBoxFor(m => m.ID_Encomenda, new { placeholder = "id_Encomenda", @class = "form-control" })
+        </div>
+                @*<div class="form-group">
+            @Html.ValidationMessageFor(m => m.Id_Funcionario)
+            @Html.TextBoxFor(m => m.Id_Funcionario, new { placeholder = "id_Funcionario", @class = "form-control" })
+        </div>*@
+
+                <div class="form-group">
+            @Html.ValidationMessageFor(m => m.QuantidadeEncomenda)
+            @Html.TextBoxFor(m => m.QuantidadeEncomenda, new { placeholder = "quantidadeEncomenda", @class = "form-control" })
+        </div>
+
+
+       <div class="form-group">
+            @Html.ValidationMessageFor(m => m.DataEncomenda)
+            @Html.TextBoxFor(m => m.DataEncomenda, new { placeholder = "dataEncomenda", @class = "form-control" })
+        </div>
+
+        <div class="form-group">
+            @Html.ValidationMessageFor(m => m.Referencia_Produto)
+            @Html.TextBoxFor(m => m.Referencia_Produto, new { placeholder = "Referencia Do Produto", @class = "form-control" })
+            @*@Html.DropDownList("CategoryID")
+            <select id="CategoryID" name="CategoryID">
+                <option value="0">Seleccionar Produto</option>
+                <option value="1">Adesivo antialérgico 20</option>
+                <option value="2">Compressa não tecido esterilizada 10x10</option>
+                <option value="3">Penso adesivo não tecido 10x6</option>
+            </select>*@
+        </div>
+
+        <p>
+            <input type="submit" class="btn btn-success" value="Enviar Pedido" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink(" Back  to  List ", "Index", null, new { @class="btn btn-primary" })
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

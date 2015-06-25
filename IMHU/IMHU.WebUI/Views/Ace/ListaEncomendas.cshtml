@@ -1,0 +1,31 @@
+﻿@model  IEnumerable<IMHU.Domain.Encomenda_ACE>
+@{
+    ViewBag.Title = "Encomendas";
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<h2>Encomendas Recebidas</h2>
+
+<div class="container"> 
+    <table class="table table-striped table-bordered" >
+        <thead>
+            <tr>
+                <th>ID Encomenda</th>
+                <th>ID Produto</th>
+                <th>Quantidade</th>
+                <th>Data</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.ID_Encomenda</td>
+                    <td>@item.Referencia_Produto</td>
+                    <td>@item.QuantidadeEncomenda</td>
+                    <td>@item.DataEncomenda</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

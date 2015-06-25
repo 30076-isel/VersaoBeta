@@ -1,0 +1,28 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost/WCFTeste">
+    <file relUrl="bin/ACEService.dll.config" publishTime="06/17/2015 14:36:22" />
+    <file relUrl="bin/SQLUtil.pdb" publishTime="06/16/2015 16:22:42" />
+    <file relUrl="ACEServiceNamespace.ACEService.svc" publishTime="06/17/2015 14:36:37" />
+    <file relUrl="bin/SQLUtil.dll" publishTime="06/16/2015 16:22:42" />
+    <file relUrl="bin/IMHU.Domain.dll" publishTime="06/16/2015 16:22:41" />
+    <file relUrl="Web.config" publishTime="06/17/2015 14:36:22" />
+    <file relUrl="bin/IMHU.Domain.pdb" publishTime="06/16/2015 16:22:41" />
+    <file relUrl="bin/MSMQ_Objects.pdb" publishTime="06/13/2015 17:24:51" />
+    <file relUrl="bin/MSMQ_Objects.dll" publishTime="06/13/2015 17:24:51" />
+    <file relUrl="bin/ACEService.pdb" publishTime="06/17/2015 14:36:11" />
+    <file relUrl="bin/ACEService.dll" publishTime="06/17/2015 14:36:11" />
+  </publishTarget>
+  <publishTarget publishUrl="http://ACEteste/WCFTeste">
+    <file relUrl="bin/ACEService.dll.config" publishTime="06/16/2015 14:31:19" />
+    <file relUrl="bin/SQLUtil.pdb" publishTime="06/16/2015 16:22:42" />
+    <file relUrl="ACEServiceNamespace.ACEService.svc" publishTime="06/17/2015 14:17:22" />
+    <file relUrl="bin/SQLUtil.dll" publishTime="06/16/2015 16:22:42" />
+    <file relUrl="bin/IMHU.Domain.dll" publishTime="06/16/2015 16:22:41" />
+    <file relUrl="Web.config" publishTime="06/16/2015 14:31:19" />
+    <file relUrl="bin/IMHU.Domain.pdb" publishTime="06/16/2015 16:22:41" />
+    <file relUrl="bin/MSMQ_Objects.pdb" publishTime="06/13/2015 17:24:51" />
+    <file relUrl="bin/MSMQ_Objects.dll" publishTime="06/13/2015 17:24:51" />
+    <file relUrl="bin/ACEService.pdb" publishTime="06/17/2015 14:17:14" />
+    <file relUrl="bin/ACEService.dll" publishTime="06/17/2015 14:17:15" />
+  </publishTarget>
+</publishData>
