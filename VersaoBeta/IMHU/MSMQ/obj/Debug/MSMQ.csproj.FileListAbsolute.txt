@@ -1,0 +1,8 @@
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\MSMQ\bin\Debug\MSMQ_Objects.dll.config
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\MSMQ\bin\Debug\MSMQ_Objects.dll
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\MSMQ\bin\Debug\MSMQ_Objects.pdb
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\MSMQ\bin\Debug\IMHU.Domain.dll
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\MSMQ\bin\Debug\IMHU.Domain.pdb
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\MSMQ\obj\Debug\MSMQ.csprojResolveAssemblyReference.cache
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\MSMQ\obj\Debug\MSMQ_Objects.dll
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\MSMQ\obj\Debug\MSMQ_Objects.pdb

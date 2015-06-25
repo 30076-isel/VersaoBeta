@@ -1,0 +1,16 @@
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\6 Versao Beta\Aplicação\IMHU\USF_Service\bin\Debug\USF_Service.dll.config
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\6 Versao Beta\Aplicação\IMHU\USF_Service\bin\Debug\USF_Service.dll
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\6 Versao Beta\Aplicação\IMHU\USF_Service\bin\Debug\USF_Service.pdb
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\6 Versao Beta\Aplicação\IMHU\USF_Service\obj\Debug\USF_Service.dll
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\6 Versao Beta\Aplicação\IMHU\USF_Service\obj\Debug\USF_Service.pdb
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\6 Versao Beta\Aplicação\IMHU\USF_Service\obj\Debug\USF_Service.csprojResolveAssemblyReference.cache
+H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\IMHU\USF_Service\bin\Debug\USF_Service.dll.config
+H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\IMHU\USF_Service\bin\Debug\USF_Service.dll
+H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\IMHU\USF_Service\bin\Debug\USF_Service.pdb
+H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\IMHU\USF_Service\obj\Debug\USF_Service.dll
+H:\Dropbox\ISEL\Projecto&Seminario\s1415v-g22\6 Versao Beta\Aplicação\IMHU\USF_Service\obj\Debug\USF_Service.pdb
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\USF_Service\bin\Debug\USF_Service.dll.config
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\USF_Service\bin\Debug\USF_Service.dll
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\USF_Service\bin\Debug\USF_Service.pdb
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\USF_Service\obj\Debug\USF_Service.dll
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\USF_Service\obj\Debug\USF_Service.pdb

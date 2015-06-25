@@ -1,0 +1,5 @@
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\SQLUtil\bin\Debug\SQLUtil.dll.config
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\SQLUtil\bin\Debug\SQLUtil.dll
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\SQLUtil\bin\Debug\SQLUtil.pdb
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\SQLUtil\obj\Debug\SQLUtil.dll
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\SQLUtil\obj\Debug\SQLUtil.pdb

@@ -1,0 +1,10 @@
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\ACEService\bin\Debug\ACEService.dll.config
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\ACEService\bin\Debug\ACEService.dll
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\ACEService\bin\Debug\ACEService.pdb
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\ACEService\bin\Debug\IMHU.Domain.dll
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\ACEService\bin\Debug\MSMQ_Objects.dll
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\ACEService\bin\Debug\IMHU.Domain.pdb
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\ACEService\bin\Debug\MSMQ_Objects.pdb
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\ACEService\obj\Debug\ACEService.csprojResolveAssemblyReference.cache
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\ACEService\obj\Debug\ACEService.dll
+D:\ISEL1415\2Sem\ProjectoFinalCurso\s1415v-g22\s1415v-g22\6 Versao Beta\Aplicação\IMHU\ACEService\obj\Debug\ACEService.pdb
